@@ -9,6 +9,10 @@ body {
     background-color: hsl(212, 45%, 89%);
     width: 100%;
     height: auto;
+    
+    display: flex;
+    justify-content: center;
+    align-content: center;
 
     font-family: 'Outfit', sans-serif;
 }
@@ -18,8 +22,6 @@ body {
     width: 375px;
 
     padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 50px;
    
     border-radius: 20px;
